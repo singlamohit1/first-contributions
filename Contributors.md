@@ -19422,6 +19422,7 @@ rehan
 - [Smurfwow](https://github.com/Smurfwow)
 - [Mario Amaya](https://github.com/MAmaya1)
 - [Harsh Sharma](https://github.com/harshthecoder-27)
+- [Mohit Singla](https://github.com/singlamohit1)
 - HAWK-Soft
 - [Sai Adarsh Babu K](https://github.com/SaiAdarsh)
 - [Kiana Perst](https://github.com/Kiana-P)
